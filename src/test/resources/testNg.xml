@@ -3,6 +3,8 @@
     <test name="MyTest">
         <classes>
             <class name="TestCases.HomeTest"/>
+            <class name="TestCases.HomeTest"/>
+            <!-- Add more test classes here -->
         </classes>
     </test>
 </suite>
